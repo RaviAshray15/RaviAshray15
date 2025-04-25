@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raviashray" target="blank"><img src="https://img.shields.io/twitter/follow/raviashray?logo=twitter&style=for-the-badge" alt="raviashray" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, SpringBoot**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **raviashray15@gmail.com**
 
