@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12htSPMr5bfTImQ5EgNTaJp9dJWlbrxRX/view?usp=sharing](https://drive.google.com/file/d/12htSPMr5bfTImQ5EgNTaJp9dJWlbrxRX/view?usp=sharing)
 
-- ⚡ Hobbies **I love music.**
+- ⚡ Hobbies? **I love music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
