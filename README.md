@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ravi+Ashray+.+.+.;Undergraduate+Student+at+VITAP;ReactJS+%26+Tailwind+Enthusiast&center=true&width=700&height=45&color=00F7EE&size=30">
+[<p align="center">
+  <img src="[https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ravi+Ashray+.+.+.;Undergraduate+Student+at+VITAP;ReactJS+%26+Tailwind+Enthusiast&center=true&width=700&height=45&color=00F7EE&size=30](https://readme-typing-svg.demolab.com/demo/?weight=500&size=30&duration=3000&color=00F7EE&center=true&vCenter=true&width=700&lines=Hey!+I+am+Ravi+Ashray+.+.+.;A+passionate+full-stack+developer+from+Hyderabad.;ReactJS+%26+Tailwind+Enthusiast)">
 </p>
 
 <h3 align="center">A passionate full-stack developer from Hyderabad.</h3>
