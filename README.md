@@ -5,6 +5,9 @@
 
 <h3 align="center">Computer Science Student at VIT Amaravati | Front-end development Intern | Hyderabad</h3>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RaviAshray15&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 ## 💫 About Me:
 🔭 I’m currently... wondering why you are reading my Github readme.<br>🌱 I’m currently learning React JS!<br>🤔 I’m consistently learning how to get actually helpful answers from ChatGPT (it’s a skill now).<br>👂 Ask me anything — I’ll respond right after my “quick 5-minute break” (which is 3 hours long)..<br>✨ I forgot what to type here.<br>⚡ Fun fact: Bangalore devs love the data type float — helps them walk over all those flooded roads.
 
@@ -19,18 +22,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RaviAshray15&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviAshray15&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RaviAshray15&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=RaviAshray15&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=RaviAshray15&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
