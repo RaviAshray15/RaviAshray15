@@ -4,7 +4,7 @@
 
 
 <h3 align="center">Computer Science Student at VIT Amaravati | Front-end development Intern | Hyderabad</h3>
-#💫 About Me:
+<h3>💫 About Me:</h3>
 
 🔭 I’m currently... wondering why you are reading my Github readme.<br>🌱 I’m currently learning React JS! <br>🤔 I’m consistently learning how to get actually helpful answers from ChatGPT (it’s a skill now).<br>👂 Ask me anything — I’ll respond right after my “quick 5-minute break” (which is 3 hours long)..<br>✨ I forgot what to type here.<br>⚡ Fun fact: Bangaloreans love the data type float — helps them walk over all those flooded roads. <br><br>
 
