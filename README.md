@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align="center">Computer Science Student at Vellore Institute of Technology Amaravati | Front-end development Intern | Hyderabad</h3>
+<h3 align="center">Computer Science Student at VIT Amaravati | Front-end development Intern | Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviashray15&label=Profile%20views&color=0e75b6&style=flat" alt="raviashray15" /> </p>
 
