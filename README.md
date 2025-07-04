@@ -1,12 +1,9 @@
 <!-- Main typing lines -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=30&duration=4000&pause=1000&color=00F7F6&center=true&vCenter=true&width=1000&lines=Hey+there!+I+am+Ravi+Ashray...;Passionate+Web+Developer+from+Hyderabad.;BTW%2C+How+did+you+end+up+stalking+me%3F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=30&duration=4000&pause=1000&color=00F7F6&center=true&vCenter=true&width=1000&lines=Hey+there!+I+am+Ravi+Ashray.+.+.;Passionate+Web+Developer+from+Hyderabad.;BTW,+How+did+you+end+up+stalking+me%3F;Bye!+Have+a+great+day+*falls+asleep+aggressively*" />
 </p>
 
-<!-- Final line with different color/effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=800&size=30&duration=6000&pause=3000&color=FF3C38&center=true&vCenter=true&width=1000&lines=Goodbye...+%7C+Falling+asleep...%7C+System+offline+_%2A%2A%2A" />
-</p>
+
 
 
 <h3 align="center">Computer Science Student at VIT Amaravati | Front-end development Intern | Hyderabad</h3>
