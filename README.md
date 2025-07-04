@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ravi Ashray</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ravi+Ashray+.+.+.;Undergraduate+Student+at+VITAP;ReactJS+%26+Tailwind+Enthusiast&center=true&width=700&height=45&color=00F7EE&size=30">
 </p>
-
-<h3 align="center">A passionate full-stack developer from Hyderabad.</h3>
 
 <h3 align="center">A passionate full-stack developer from Hyderabad.</h3>
 
