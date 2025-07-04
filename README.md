@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?lines=Hey!+I+am+Ravi+Ashray+.+.+.;A+passionate+full-stack+develop+from+Hyderabad;ReactJS+%26+Tailwind+Enthusiast&center=true&vCenter=true&width=700&height=45&color=00F7EE&size=30&duration=3000](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=00F7EE&center=true&vCenter=true&width=1000&lines=Hey!+I+am+Ravi+Ashray!;A+passionate+full-stack+developer+from+Hyderabad.;ReactJS+%26+Tailwind+Enthusiast)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=00F7EE&center=true&vCenter=true&width=1000&lines=Hey!+I+am+Ravi+Ashray!;A+passionate+full-stack+developer+from+Hyderabad.;ReactJS+%26+Tailwind+Enthusiast" />
 </p>
+
 
 <h3 align="center">A passionate full-stack developer from Hyderabad.</h3>
 
