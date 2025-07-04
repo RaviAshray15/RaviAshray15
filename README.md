@@ -1,4 +1,11 @@
-[<h1 align="center">Hi 👋, I'm Ravi Ashray</h1>](https://readme-typing-svg.demolab.com/demo/?weight=500&size=30&duration=3000&color=00F7EE&center=true&vCenter=true&width=700&lines=Hey!+I+am+Ravi+Ashray+.+.+.;Undergraduate+Student+at+VITAP;ReactJS+%26+Tailwind+Enthusiast)](https://readme-typing-svg.demolab.com/demo/?weight=500&size=30&duration=3000&color=00F7EE&center=true&vCenter=true&width=700&lines=Hey!+I+am+Ravi+Ashray+.+.+.;Undergraduate+Student+at+VITAP;ReactJS+%26+Tailwind+Enthusiast)
+<h1 align="center">Hi 👋, I'm Ravi Ashray</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+I+am+Ravi+Ashray+.+.+.;Undergraduate+Student+at+VITAP;ReactJS+%26+Tailwind+Enthusiast&center=true&width=700&height=45&color=00F7EE&size=30">
+</p>
+
+<h3 align="center">A passionate full-stack developer from Hyderabad.</h3>
+
 <h3 align="center">A passionate full-stack developer from Hyderabad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviashray15&label=Profile%20views&color=0e75b6&style=flat" alt="raviashray15" /> </p>
