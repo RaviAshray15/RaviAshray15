@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=consolas&weight=600&size=30&duration=4000&pause=1000&color=00F7F6&center=true&vCenter=true&width=600&lines=Hey%2C+there!+You+must+have+known+my+name...;Thanks+for+stalking+my+Github+profile.;BTW%2C+How+did+you+end+up+here%3F;Okay%2C+bye!+Happy+stalking..."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=consolas&weight=600&size=30&duration=4000&pause=1000&color=00F7F6&center=true&vCenter=true&width=1000&lines=Hey%2C+there!+You+must+have+known+my+name...;Thanks+for+stalking+my+Github+profile.;BTW%2C+How+did+you+end+up+here%3F;Okay%2C+bye!+Happy+stalking..."/></p>
 
 
 <h3 align="center">Computer Science Student at VIT Amaravati | Front-end development Intern | Hyderabad</h3>
