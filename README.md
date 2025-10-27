@@ -11,6 +11,8 @@
 ## 💫 About Me:
 🔭 I’m currently... wondering why you are reading my Github readme.<br>🌱 I’m currently learning React JS!<br>🤔 I’m consistently learning how to get actually helpful answers from ChatGPT (it’s a skill now).<br>👂 Ask me anything — I’ll respond right after my “quick 5-minute break” (which is 3 hours long)..<br>✨ I forgot what to type here.<br>⚡ Fun fact: Bangalore devs love the data type float — helps them walk over all those flooded roads.
 
+<img src="https://github.com/RaviAshray15/RaviAshray15/workflows/snk/badge.svg" alt="GitHub Streak" />
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashray.namuduru) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raviashray) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raviashray) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/raviashray15) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raviashray) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@raviashray1431) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raviashray15@gmail.com) 
