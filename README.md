@@ -11,7 +11,11 @@
 ## 💫 About Me:
 🔭 I’m currently... wondering why you are reading my Github readme.<br>🌱 I’m currently learning React JS!<br>🤔 I’m consistently learning how to get actually helpful answers from ChatGPT (it’s a skill now).<br>👂 Ask me anything — I’ll respond right after my “quick 5-minute break” (which is 3 hours long)..<br>✨ I forgot what to type here.<br>⚡ Fun fact: Bangalore devs love the data type float — helps them walk over all those flooded roads.
 
-<img src="https://github.com/RaviAshray15/RaviAshray15/workflows/snk/badge.svg" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 
 ## 🌐 Socials:
