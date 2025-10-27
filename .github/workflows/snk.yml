@@ -2,16 +2,20 @@ name: snk
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # every day at midnight UTC
+  workflow_dispatch:      # allows manual runs
 
 jobs:
   snk:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update streak
+      - name: Generate Snake Graph
         uses: Platane/snk@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user: RaviAshray15
+          github_user_name: RaviAshray15
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
