@@ -2,8 +2,8 @@ name: snk
 
 on:
   schedule:
-    - cron: "0 0 * * *" # daily
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # runs daily
+  workflow_dispatch:      # manual run option
 
 jobs:
   snk:
